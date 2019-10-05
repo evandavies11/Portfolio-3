@@ -74,6 +74,15 @@ input, select, textarea {
 	
 }
 
+#bottom-yahh{
+	justify-content: center;
+	padding-left: 40px;
+};
+
+#get-in-line{
+	padding-left: 40px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
